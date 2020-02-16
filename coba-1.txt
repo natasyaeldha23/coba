@@ -13,5 +13,8 @@ sesuatu
 
 bingung aku
 
+<<<<<<< HEAD
 ini workshop1
 
+=======
+>>>>>>> master
